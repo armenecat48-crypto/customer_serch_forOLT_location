@@ -1,7 +1,0 @@
-{
-  "name": "Southern OLT Pro Management",
-  "description": "Enterprise-grade OLT management system for Southern Thailand with real-time mapping, high-performance customer ID search, and comprehensive site statistics.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
